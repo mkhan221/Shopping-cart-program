@@ -1,8 +1,3 @@
-//  Created by Frank M. Carrano and Tim Henry.
-//  Copyright (c) 2013 _Pearson Education_. All rights reserved.
-
-/** ADT bag: Array-based implementation.
-    @file Bag.h */
 
 
 #ifndef _BAG
