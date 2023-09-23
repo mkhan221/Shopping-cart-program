@@ -1,7 +1,4 @@
-//  Created by Frank M. Carrano and Tim Henry.
-//  Copyright (c) 2013 _Pearson Education_. All rights reserved.
 
-/** @file Bag.cpp (same as ArrayBag) */
 
 #include "Bag.h"
 #include <cstddef>
